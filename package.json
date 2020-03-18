@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/tvrcgo/tvrcgo.cn/issues"
   },
-  "homepage": "https://tvrcgo.github.io/tvrcgo.cn",
+  "homepage": "http://tvrcgo.cn",
   "eslintConfig": {
     "extends": "react-app"
   },
