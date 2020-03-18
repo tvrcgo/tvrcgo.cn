@@ -1,0 +1,21 @@
+{
+  "name": "tvrcgo.cn",
+  "version": "0.1.0",
+  "description": "Website for tvrcgo.cn",
+  "scripts": {
+    "start": "cd app && react-scripts start",
+    "build": "cd app && react-scripts build",
+    "test": "cd app && react-scripts test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvrcgo/tvrcgo.cn.git"
+  },
+  "keywords": [],
+  "author": "tvrcgo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tvrcgo/tvrcgo.cn/issues"
+  },
+  "homepage": "https://tvrcgo.github.io/tvrcgo.cn"
+}
