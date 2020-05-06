@@ -5,10 +5,13 @@ import './App.css'
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>tvrcgo.cn</p>
       </header>
+      <footer className='footer'>
+        <div>粤ICP备 20034443 号</div>
+      </footer>
     </div>
   )
 }
