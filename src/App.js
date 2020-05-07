@@ -7,7 +7,6 @@ function App() {
     <div className="App">
       <div className="header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>tvrcgo.cn</p>
       </div>
       <div className='footer'>
         <div>粤ICP备 20034443 号</div>

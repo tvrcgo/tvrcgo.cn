@@ -33,6 +33,8 @@ a {
   color: #fff;
   font-size: calc(10px + 2vmin);
   flex: 1;
+  display: flex;
+  text-align: center;
   align-items: center;
   justify-content: center;
 }
